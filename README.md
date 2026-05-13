@@ -7,7 +7,7 @@ This repository show and document how i solved each different Lab.
 
 ## Structure
 
-All Writeups are classified by year in their category :  
+All Writeups are classified by Difficulty in their category :  
 - `01-General-Skills`
 - `02-Web-Exploitation`
 - `03-Cryptography`
